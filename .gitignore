@@ -1,0 +1,14 @@
+# Common generated and local-only files
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+__pycache__/
+.pytest_cache/
+.vscode/
+.idea/
